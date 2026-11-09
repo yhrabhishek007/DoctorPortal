@@ -294,11 +294,11 @@ DoctorPortal/
 
 ### Home Page
 
-![Home Page](231445.png)
+![Home Page](Screenshot 2026-11-06 231445.png)
 
 ### Doctor List
 
-
+[View Home Page](screenshots/home-page.png)
 
 ### Add Doctor
 

@@ -302,6 +302,7 @@ DoctorPortal/
 
 ### Add Doctor
 
+[View Home Page](Screenshot 2026-11-06 231512.png)
 
 
 ### Search and Filter Doctors

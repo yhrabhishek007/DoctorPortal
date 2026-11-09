@@ -297,16 +297,16 @@ DoctorPortal/
 [Home Page]([Screenshot 2026-11-06 231445.png](https://github.com/yhrabhishek007/DoctorPortal/blob/e65150dbf978b41590e78e8b58d95483d5aec2b5/Screenshot%202026-11-06%20231445.png ))
 
 ### Registered Doctors
-![Registered Doctors]([screenshots/doctor-list.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-06%20231550.png))
+[Registered Doctors]([screenshots/doctor-list.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-06%20231550.png))
 
 ### Add Doctor
-![Add Doctor]([screenshots/add-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-06%20231512.png))
+[Add Doctor]([screenshots/add-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-06%20231512.png))
 
 ### Edit Doctor
-![Edit Doctor]([screenshots/edit-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-09%20100845.png))
+[Edit Doctor]([screenshots/edit-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-09%20100845.png))
 
 ### Delete Doctor
-![Delete Doctor]([screenshots/delete-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-09%20100945.png))
+[Delete Doctor]([screenshots/delete-doctor.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-09%20100945.png))
 
 ---
 

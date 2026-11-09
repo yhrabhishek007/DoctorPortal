@@ -294,7 +294,7 @@ DoctorPortal/
 
 ### Home Page
 
-![Home Page](Screenshot 2026-11-06 231445.png)
+![Home Page]([Screenshot 2026-11-06 231445.png](https://github.com/yhrabhishek007/DoctorPortal/blob/e65150dbf978b41590e78e8b58d95483d5aec2b5/Screenshot%202026-11-06%20231445.png ))
 
 ### Doctor List
 

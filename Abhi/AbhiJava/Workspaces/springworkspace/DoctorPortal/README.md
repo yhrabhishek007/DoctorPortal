@@ -282,8 +282,6 @@ http://localhost:8080/DoctorPortal/
 
 Screenshots demonstrate the actual user interface and functionality of DoctorPortal.
 
-Add your screenshots to a folder named `screenshots` in the project root.
-
 ```
 DoctorPortal/
 ├── screenshots/
@@ -294,11 +292,9 @@ DoctorPortal/
 └── README.md
 ```
 
-Then display them in this section:
-
 ### Home Page
 
-
+![Home Page](231445.png)
 
 ### Doctor List
 

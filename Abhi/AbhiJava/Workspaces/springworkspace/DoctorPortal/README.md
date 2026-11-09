@@ -293,8 +293,7 @@ DoctorPortal/
 ```
 
 ### Home Page
-
-[Home Page]([Screenshot 2026-11-06 231445.png](https://github.com/yhrabhishek007/DoctorPortal/blob/e65150dbf978b41590e78e8b58d95483d5aec2b5/Screenshot%202026-11-06%20231445.png ))
+[Home Page]([Screenshot 2026-11-06 231445.png](https://github.com/yhrabhishek007/DoctorPortal/blob/bd95c88e8c2395fbdb7c3e6db3d05b09baa0dd5e/Screenshot%202026-11-06%20231445.png)]
 
 ### Registered Doctors
 [Registered Doctors]([screenshots/doctor-list.png](https://github.com/yhrabhishek007/DoctorPortal/blob/0b3a800d29c7e1d7de2e7721ea984367355bd1e8/Screenshot%202026-11-06%20231550.png))
